@@ -1,0 +1,43 @@
+body{
+    height: 1200px;
+}
+
+header{
+    background-image: url('http://extendthemes.com/demos/mesmerize-pro-portfolio/wp-content/uploads/sites/16/2016/06/cropped-background-2726039-6x4.jpg');
+    background-size: cover;
+    color: white;
+    padding: 90px;
+}
+
+header .tagline{
+    font-size: 24px;
+    margin: 15px 0 0;
+    display: block;
+    line-height: 1.2em;
+    color: #7C7C7C;
+    margin: 5px 0 0;
+}
+
+.social {
+    text-align: center;
+}
+
+.container-fluid{
+    margin: 0 auto;
+}
+
+.social i{
+    font-size: 20px;
+    padding: 10px;
+    color:#bbbbbb;
+}
+
+#logo{
+    height: 120px;
+    width: 120px;
+}
+
+li {
+    text-align: center;
+}
+

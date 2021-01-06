@@ -2,6 +2,11 @@ body{
     height: 1200px;
 }
 
+.navbar-brand{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 header{
     background-image: url('http://extendthemes.com/demos/mesmerize-pro-portfolio/wp-content/uploads/sites/16/2016/06/cropped-background-2726039-6x4.jpg');
     background-size: cover;
@@ -16,6 +21,10 @@ header .tagline{
     line-height: 1.2em;
     color: #7C7C7C;
     margin: 5px 0 0;
+}
+
+.img-circle {
+    border-radius: 50%;
 }
 
 .social {
@@ -33,11 +42,6 @@ header .tagline{
 }
 
 #logo{
-    height: 120px;
-    width: 120px;
+    height: 140px;
+    width: 140px;
 }
-
-li {
-    text-align: center;
-}
-
